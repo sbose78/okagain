@@ -1,5 +1,4 @@
-= REST API Level 0 - Eclipse Vert.x Booster
-
+= REST API Level 0 - Eclipse Vert.x Booster  ( check!)
 == Run this Booster Locally
 
 To run this booster on your local host:
